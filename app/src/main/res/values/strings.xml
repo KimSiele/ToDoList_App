@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="hint_tasks_title">Tasks Title</string>
+    <string name="hint_creation_time">creation time</string>
+    <string name="my_task">My Task</string>
+</resources>
